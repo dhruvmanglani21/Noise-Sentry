@@ -1,0 +1,6 @@
+{
+  "name": "Noise Sentry",
+  "description": "Real-time community sound level tracking, decibel mapping, disturbance reporting, and gamified monitoring dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
